@@ -1,0 +1,26 @@
+body {
+  background-image: url('../images/explorer.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: black;
+}
+
+main {
+  height: 100%;
+  margin: 6.3rem 10.2rem ;
+}
+
+h1 {
+  font-size: 4.8rem;
+  font-weight: bold;
+  color: var(--text-primary);
+  margin-bottom: 1.6rem;
+}
+
+p {
+  width: 64.8rem;
+  color: var(--text-primary);
+  font-size: 1.8rem;
+  font-weight: regular;
+  line-height: 160%;
+}
